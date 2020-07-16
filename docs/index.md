@@ -16,7 +16,7 @@ autor-mensagem: Pensando em explorar os sensores e motores criei esta construç�
 
 video: instagram
 video-link: https://www.instagram.com/p/CCgMrBWlj3W/embed
-video-altura: 508
-video-largura: 508
+video-altura: 400
+video-largura: 400
 ---
-Versão: 1.4
+Versão: 1.5
