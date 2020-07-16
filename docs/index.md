@@ -19,4 +19,4 @@ video-link: https://www.instagram.com/p/CCgMrBWlj3W/embed
 video-altura: 508
 video-largura: 508
 ---
-Versão: 1.3
+Versão: 1.4
